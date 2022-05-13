@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+
+
+    <head>
+        <meta charset="utf-8">
+        <title> CV KIPS WILLY</title>
+        <link rel="stylesheet" href="test4.css">
+        <script src="script.js"></script>
+    </head>
+
+
+    <body>
+        <header>
+      
+TECHNICIEN D'ASSISTANCE EN INFORMATIQUE
+
+            <img  class="img" src="willy.jpg" alt="photo willy">
+            
+            KIPS
+            Willy
+            06.71.48.40.92
+          
+            31 ans
+            MANDEURE France
+            <a id="email" href="mailto:willy_kips@hotmail.fr">willy_kips@hotmail.fr</a>
+            Permis B
+            
+          
+
+        </header>  
+    
+        
+        <main>
+            <section class="container>">
+        
+           accroche"> Passionnée d'informatique j'ai suivi un BAC PRO Micro informatique et réseaux et je suis maintenant en formation pour devenir Devellopeur WEB ce qui me permettera de découvrir les deux facettes de l'informatique
+       
+
+               
+		COMPETENCES
+               
+                    Active Directory
+                    Virtualisation
+                    Maintenance Installation Materiel
+                    Bases en html CSS
+                    Gestion des stocks
+                    Assistance Utilisateurs
+                
+
+               ETUDES
+
+
+                    <li>Formation ABC DEV au Centre de Réadaptation de Mulhouse  18/10/2021 au 01/04/2022</li>
+                    <li>BAC PRO - Micro-informatique et résaux : Obtenu en juin 2009 – Lycée Jean Prouvé. Nancy </li>
+                    <li>BEP - Installateur Conseil Entretien Electroménager : Obtenu en juin 2007 - Lycée Vauban. Verdun</li>
+                </ul>
+            </div>    
+
+                <h2>EMPLOIS</h2>
+                <ul>
+                    <li>Ouvrier polyvalent Association Amie Verdun - Avril 2014 à Decembre 2016 </li>
+                    <li>Saisonnier Septembre 2012 a Octobre 2012 et de Septembre 2019 a Octobre 2019 </li>
+                    <li>Technicien d'assistance informatique Centre Hospitalier de Verdun – 1er Mars 2010 au 1er Mars 2011 </li>
+                </ul>
+
+       
+      
+                <h2>LANGUES</h2>
+                <ul>
+                    <li>Français : écrit et parlé </li>
+                    <li>Anglais : écrit compris </li>
+                </ul>
+     
+          
+                <h2>CENTRES D'INTERETS</h2>
+                <ul>
+                    <li>Musique, Concert</li>
+                    <li>Aikido</li>
+                    <li>Balade en foret</li>
+                    <li>Chien</li>
+                </ul>
+        
+       
+        
+            <div id="PDF">
+                <p><a href="index.pdf"><input type="button" value="CV PDF"></a></p>
+   

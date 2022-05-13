@@ -1,0 +1,188 @@
+#header {
+    border: 2px solid #000000 ;
+	z-index: 1;
+	position: fixed;
+	width: 99%;
+	margin-top: -20px;
+	height: 60px;
+	background-color:#b6b4b4;
+	margin-bottom: 10px;
+}
+
+#name {
+	float:left;
+	margin-left: 5px;
+	padding-top: 5px;
+	font-size: 20px;
+	font-family: Garamond, serif;
+	color: #000000;
+}
+
+#title {
+
+	text-align: center;
+	float:center;
+	margin-left: 5px;
+	padding-top: 5px;
+	font-size: 20px;
+	font-family: Garamond, serif;
+	color: #000000;
+}
+
+
+
+
+
+
+
+h4 {
+	margin-left: 5px;
+	margin-bottom: 15px;
+	font-family: Verdana, sans-serif;
+}
+
+
+
+li {
+	list-style-type: square;
+}
+
+a:hover {
+	font-weight: bold;
+}
+.right {
+	position: relative;
+	float:right;
+	margin-top: 50px;
+	width: 95%;
+	height: 400px;
+	background-color: ;
+	margin-bottom: 10px;
+}
+
+#diplome {
+ 
+  
+    float:center;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: -10px;
+	font-family: Garamond, serif;
+	color: #00000;
+	background-color : ;border: 2px solid #000000;
+    background-color : #dbdbdb;
+margin-left: 5px;
+	margin-right: 5px;
+}
+#diplome {
+   border: 2px solid #000000;
+    background-color : #dbdbdb;
+margin-left: 5px;
+	margin-right: 5px;;
+
+}
+
+
+
+
+
+/* {
+PARTI stage
+}*/
+
+
+
+
+#stage {
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: -10px;
+	font-family: Garamond, serif;
+	color: #00000;
+	background-color : ;
+}
+
+
+
+#tt{border: 2px solid #000000;
+    background-color : #dbdbdb;
+margin-left: 5px;
+	margin-right: 5px;}
+
+	
+#blandin{border: 2px solid #000000;
+    background-color : #dbdbdb;
+margin-left: 5px;
+	margin-right: 5px;}
+
+
+#filien{border: 2px solid #000000;
+    background-color : #dbdbdb;
+margin-left: 5px;
+	margin-right: 5px;}
+	
+	
+	
+#mairie{border: 2px solid #000000;
+    background-color : #dbdbdb;
+margin-left: 5px;
+	margin-right: 5px;;}
+
+/* {
+PARTI EMPLOI
+}*/
+
+
+
+#emploi {
+border:
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: -10px;
+	font-family: Garamond, serif;
+	color: #00000;
+	background-color : ;
+}
+h2 {border: 2px solid #000000;
+background-color:#a5a0a0;
+color: darkblue;}
+
+#hopital {
+   border: 2px solid #000000;
+    background-color : #dbdbdb;
+margin-left: 5px;
+	margin-right: 5px;;
+
+}
+
+#saison {
+    border: 2px solid #000000;
+    background-color : #dbdbdb;
+margin-left: 5px;
+	margin-right: 5px;
+}
+
+#ouvrier-amie{
+    border: 2px solid #000000;
+    background-color :#dbdbdb;
+margin-left: 5px;
+	margin-right: 5px;
+}
+
+
+#footer {
+	 border: 2px solid #000000 ;
+	position: relative;
+	height: 50px;
+	background-color:#b6b4b4;
+	clear: both;
+	font-family: Garamond, serif;
+	font-size: 20px;
+	text-align: center;
+	color: #000000;
+
+#footer p {
+	position: relative;
+	padding-top: 15px;
+	
+}
