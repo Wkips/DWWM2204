@@ -1,0 +1,15 @@
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.3CalculMoyenne\1.3CalculMoyenne\obj\Debug\net6.0\1.3CalculMoyenne.csproj.AssemblyReference.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.3CalculMoyenne\1.3CalculMoyenne\obj\Debug\net6.0\1.3CalculMoyenne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.3CalculMoyenne\1.3CalculMoyenne\obj\Debug\net6.0\1.3CalculMoyenne.AssemblyInfoInputs.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.3CalculMoyenne\1.3CalculMoyenne\obj\Debug\net6.0\1.3CalculMoyenne.AssemblyInfo.cs
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.3CalculMoyenne\1.3CalculMoyenne\obj\Debug\net6.0\1.3CalculMoyenne.csproj.CoreCompileInputs.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.3CalculMoyenne\1.3CalculMoyenne\bin\Debug\net6.0\1.3CalculMoyenne.exe
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.3CalculMoyenne\1.3CalculMoyenne\bin\Debug\net6.0\1.3CalculMoyenne.deps.json
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.3CalculMoyenne\1.3CalculMoyenne\bin\Debug\net6.0\1.3CalculMoyenne.runtimeconfig.json
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.3CalculMoyenne\1.3CalculMoyenne\bin\Debug\net6.0\1.3CalculMoyenne.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.3CalculMoyenne\1.3CalculMoyenne\bin\Debug\net6.0\1.3CalculMoyenne.pdb
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.3CalculMoyenne\1.3CalculMoyenne\obj\Debug\net6.0\1.3CalculMoyenne.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.3CalculMoyenne\1.3CalculMoyenne\obj\Debug\net6.0\refint\1.3CalculMoyenne.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.3CalculMoyenne\1.3CalculMoyenne\obj\Debug\net6.0\1.3CalculMoyenne.pdb
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.3CalculMoyenne\1.3CalculMoyenne\obj\Debug\net6.0\1.3CalculMoyenne.genruntimeconfig.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.3CalculMoyenne\1.3CalculMoyenne\obj\Debug\net6.0\ref\1.3CalculMoyenne.dll
