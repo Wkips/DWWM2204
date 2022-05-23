@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="C:\Users\wkips\Documents\GitHub\DWWM2204\source\repos\3.1ControleSaisie\Program.cs" Link="Program.cs" />
-  </ItemGroup>
-
 </Project>
