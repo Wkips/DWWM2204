@@ -1,0 +1,15 @@
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.2HelloYou\1.2HelloYou\bin\Debug\net6.0\1.2HelloYou.exe
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.2HelloYou\1.2HelloYou\bin\Debug\net6.0\1.2HelloYou.deps.json
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.2HelloYou\1.2HelloYou\bin\Debug\net6.0\1.2HelloYou.runtimeconfig.json
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.2HelloYou\1.2HelloYou\bin\Debug\net6.0\1.2HelloYou.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.2HelloYou\1.2HelloYou\bin\Debug\net6.0\1.2HelloYou.pdb
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.2HelloYou\1.2HelloYou\obj\Debug\net6.0\1.2HelloYou.csproj.AssemblyReference.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.2HelloYou\1.2HelloYou\obj\Debug\net6.0\1.2HelloYou.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.2HelloYou\1.2HelloYou\obj\Debug\net6.0\1.2HelloYou.AssemblyInfoInputs.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.2HelloYou\1.2HelloYou\obj\Debug\net6.0\1.2HelloYou.AssemblyInfo.cs
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.2HelloYou\1.2HelloYou\obj\Debug\net6.0\1.2HelloYou.csproj.CoreCompileInputs.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.2HelloYou\1.2HelloYou\obj\Debug\net6.0\1.2HelloYou.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.2HelloYou\1.2HelloYou\obj\Debug\net6.0\refint\1.2HelloYou.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.2HelloYou\1.2HelloYou\obj\Debug\net6.0\1.2HelloYou.pdb
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.2HelloYou\1.2HelloYou\obj\Debug\net6.0\1.2HelloYou.genruntimeconfig.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.2HelloYou\1.2HelloYou\obj\Debug\net6.0\ref\1.2HelloYou.dll
