@@ -1,0 +1,15 @@
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.5SurfaceSecteurCirculaire\1.5SurfaceSecteurCirculaire\obj\Debug\net6.0\1.5SurfaceSecteurCirculaire.csproj.AssemblyReference.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.5SurfaceSecteurCirculaire\1.5SurfaceSecteurCirculaire\obj\Debug\net6.0\1.5SurfaceSecteurCirculaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.5SurfaceSecteurCirculaire\1.5SurfaceSecteurCirculaire\obj\Debug\net6.0\1.5SurfaceSecteurCirculaire.AssemblyInfoInputs.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.5SurfaceSecteurCirculaire\1.5SurfaceSecteurCirculaire\obj\Debug\net6.0\1.5SurfaceSecteurCirculaire.AssemblyInfo.cs
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.5SurfaceSecteurCirculaire\1.5SurfaceSecteurCirculaire\obj\Debug\net6.0\1.5SurfaceSecteurCirculaire.csproj.CoreCompileInputs.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.5SurfaceSecteurCirculaire\1.5SurfaceSecteurCirculaire\bin\Debug\net6.0\1.5SurfaceSecteurCirculaire.exe
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.5SurfaceSecteurCirculaire\1.5SurfaceSecteurCirculaire\bin\Debug\net6.0\1.5SurfaceSecteurCirculaire.deps.json
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.5SurfaceSecteurCirculaire\1.5SurfaceSecteurCirculaire\bin\Debug\net6.0\1.5SurfaceSecteurCirculaire.runtimeconfig.json
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.5SurfaceSecteurCirculaire\1.5SurfaceSecteurCirculaire\bin\Debug\net6.0\1.5SurfaceSecteurCirculaire.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.5SurfaceSecteurCirculaire\1.5SurfaceSecteurCirculaire\bin\Debug\net6.0\1.5SurfaceSecteurCirculaire.pdb
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.5SurfaceSecteurCirculaire\1.5SurfaceSecteurCirculaire\obj\Debug\net6.0\1.5SurfaceSecteurCirculaire.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.5SurfaceSecteurCirculaire\1.5SurfaceSecteurCirculaire\obj\Debug\net6.0\refint\1.5SurfaceSecteurCirculaire.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.5SurfaceSecteurCirculaire\1.5SurfaceSecteurCirculaire\obj\Debug\net6.0\1.5SurfaceSecteurCirculaire.pdb
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.5SurfaceSecteurCirculaire\1.5SurfaceSecteurCirculaire\obj\Debug\net6.0\1.5SurfaceSecteurCirculaire.genruntimeconfig.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.5SurfaceSecteurCirculaire\1.5SurfaceSecteurCirculaire\obj\Debug\net6.0\ref\1.5SurfaceSecteurCirculaire.dll
