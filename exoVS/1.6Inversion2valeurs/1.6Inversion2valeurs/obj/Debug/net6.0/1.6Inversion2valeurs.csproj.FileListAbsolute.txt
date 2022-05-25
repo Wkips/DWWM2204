@@ -1,0 +1,15 @@
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.6Inversion2valeurs\1.6Inversion2valeurs\bin\Debug\net6.0\1.6Inversion2valeurs.exe
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.6Inversion2valeurs\1.6Inversion2valeurs\bin\Debug\net6.0\1.6Inversion2valeurs.deps.json
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.6Inversion2valeurs\1.6Inversion2valeurs\bin\Debug\net6.0\1.6Inversion2valeurs.runtimeconfig.json
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.6Inversion2valeurs\1.6Inversion2valeurs\bin\Debug\net6.0\1.6Inversion2valeurs.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.6Inversion2valeurs\1.6Inversion2valeurs\bin\Debug\net6.0\1.6Inversion2valeurs.pdb
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.6Inversion2valeurs\1.6Inversion2valeurs\obj\Debug\net6.0\1.6Inversion2valeurs.csproj.AssemblyReference.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.6Inversion2valeurs\1.6Inversion2valeurs\obj\Debug\net6.0\1.6Inversion2valeurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.6Inversion2valeurs\1.6Inversion2valeurs\obj\Debug\net6.0\1.6Inversion2valeurs.AssemblyInfoInputs.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.6Inversion2valeurs\1.6Inversion2valeurs\obj\Debug\net6.0\1.6Inversion2valeurs.AssemblyInfo.cs
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.6Inversion2valeurs\1.6Inversion2valeurs\obj\Debug\net6.0\1.6Inversion2valeurs.csproj.CoreCompileInputs.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.6Inversion2valeurs\1.6Inversion2valeurs\obj\Debug\net6.0\1.6Inversion2valeurs.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.6Inversion2valeurs\1.6Inversion2valeurs\obj\Debug\net6.0\refint\1.6Inversion2valeurs.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.6Inversion2valeurs\1.6Inversion2valeurs\obj\Debug\net6.0\1.6Inversion2valeurs.pdb
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.6Inversion2valeurs\1.6Inversion2valeurs\obj\Debug\net6.0\1.6Inversion2valeurs.genruntimeconfig.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\1.6Inversion2valeurs\1.6Inversion2valeurs\obj\Debug\net6.0\ref\1.6Inversion2valeurs.dll
