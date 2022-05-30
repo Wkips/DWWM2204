@@ -1,0 +1,15 @@
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2_2EstTuMajeur\bin\Debug\net6.0\2_2EstTuMajeur.exe
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2_2EstTuMajeur\bin\Debug\net6.0\2_2EstTuMajeur.deps.json
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2_2EstTuMajeur\bin\Debug\net6.0\2_2EstTuMajeur.runtimeconfig.json
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2_2EstTuMajeur\bin\Debug\net6.0\2_2EstTuMajeur.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2_2EstTuMajeur\bin\Debug\net6.0\2_2EstTuMajeur.pdb
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2_2EstTuMajeur\obj\Debug\net6.0\2_2EstTuMajeur.csproj.AssemblyReference.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2_2EstTuMajeur\obj\Debug\net6.0\2_2EstTuMajeur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2_2EstTuMajeur\obj\Debug\net6.0\2_2EstTuMajeur.AssemblyInfoInputs.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2_2EstTuMajeur\obj\Debug\net6.0\2_2EstTuMajeur.AssemblyInfo.cs
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2_2EstTuMajeur\obj\Debug\net6.0\2_2EstTuMajeur.csproj.CoreCompileInputs.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2_2EstTuMajeur\obj\Debug\net6.0\2_2EstTuMajeur.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2_2EstTuMajeur\obj\Debug\net6.0\refint\2_2EstTuMajeur.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2_2EstTuMajeur\obj\Debug\net6.0\2_2EstTuMajeur.pdb
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2_2EstTuMajeur\obj\Debug\net6.0\2_2EstTuMajeur.genruntimeconfig.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2_2EstTuMajeur\obj\Debug\net6.0\ref\2_2EstTuMajeur.dll
