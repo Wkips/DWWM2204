@@ -1,0 +1,15 @@
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.3Retraite\bin\Debug\net6.0\2.3Retraite.exe
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.3Retraite\bin\Debug\net6.0\2.3Retraite.deps.json
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.3Retraite\bin\Debug\net6.0\2.3Retraite.runtimeconfig.json
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.3Retraite\bin\Debug\net6.0\2.3Retraite.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.3Retraite\bin\Debug\net6.0\2.3Retraite.pdb
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.3Retraite\obj\Debug\net6.0\2.3Retraite.csproj.AssemblyReference.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.3Retraite\obj\Debug\net6.0\2.3Retraite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.3Retraite\obj\Debug\net6.0\2.3Retraite.AssemblyInfoInputs.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.3Retraite\obj\Debug\net6.0\2.3Retraite.AssemblyInfo.cs
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.3Retraite\obj\Debug\net6.0\2.3Retraite.csproj.CoreCompileInputs.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.3Retraite\obj\Debug\net6.0\2.3Retraite.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.3Retraite\obj\Debug\net6.0\refint\2.3Retraite.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.3Retraite\obj\Debug\net6.0\2.3Retraite.pdb
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.3Retraite\obj\Debug\net6.0\2.3Retraite.genruntimeconfig.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.3Retraite\obj\Debug\net6.0\ref\2.3Retraite.dll

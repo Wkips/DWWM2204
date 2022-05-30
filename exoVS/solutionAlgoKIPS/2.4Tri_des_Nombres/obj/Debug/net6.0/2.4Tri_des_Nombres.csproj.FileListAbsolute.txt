@@ -1,0 +1,15 @@
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.4Tri_des_Nombres\obj\Debug\net6.0\2.4Tri_des_Nombres.csproj.AssemblyReference.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.4Tri_des_Nombres\obj\Debug\net6.0\2.4Tri_des_Nombres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.4Tri_des_Nombres\obj\Debug\net6.0\2.4Tri_des_Nombres.AssemblyInfoInputs.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.4Tri_des_Nombres\obj\Debug\net6.0\2.4Tri_des_Nombres.AssemblyInfo.cs
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.4Tri_des_Nombres\obj\Debug\net6.0\2.4Tri_des_Nombres.csproj.CoreCompileInputs.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.4Tri_des_Nombres\bin\Debug\net6.0\2.4Tri_des_Nombres.exe
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.4Tri_des_Nombres\bin\Debug\net6.0\2.4Tri_des_Nombres.deps.json
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.4Tri_des_Nombres\bin\Debug\net6.0\2.4Tri_des_Nombres.runtimeconfig.json
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.4Tri_des_Nombres\bin\Debug\net6.0\2.4Tri_des_Nombres.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.4Tri_des_Nombres\bin\Debug\net6.0\2.4Tri_des_Nombres.pdb
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.4Tri_des_Nombres\obj\Debug\net6.0\2.4Tri_des_Nombres.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.4Tri_des_Nombres\obj\Debug\net6.0\refint\2.4Tri_des_Nombres.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.4Tri_des_Nombres\obj\Debug\net6.0\2.4Tri_des_Nombres.pdb
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.4Tri_des_Nombres\obj\Debug\net6.0\2.4Tri_des_Nombres.genruntimeconfig.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.4Tri_des_Nombres\obj\Debug\net6.0\ref\2.4Tri_des_Nombres.dll

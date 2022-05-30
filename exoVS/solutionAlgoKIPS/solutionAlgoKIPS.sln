@@ -17,6 +17,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.6Inversion2valeurs", "1.6
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_1TriNombres", "2_1TriNombres\2_1TriNombres\2_1TriNombres.csproj", "{84541649-28FC-4769-A9F0-6A557A6148FC}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.3Retraite", "2.3Retraite\2.3Retraite.csproj", "{B5AA655A-6F44-44D7-9500-47A160FF3487}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.4Tri_des_Nombres", "2.4Tri_des_Nombres\2.4Tri_des_Nombres.csproj", "{D964400E-8BCC-4FE6-8AEC-79C61E793C65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{84541649-28FC-4769-A9F0-6A557A6148FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84541649-28FC-4769-A9F0-6A557A6148FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84541649-28FC-4769-A9F0-6A557A6148FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5AA655A-6F44-44D7-9500-47A160FF3487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5AA655A-6F44-44D7-9500-47A160FF3487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5AA655A-6F44-44D7-9500-47A160FF3487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5AA655A-6F44-44D7-9500-47A160FF3487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D964400E-8BCC-4FE6-8AEC-79C61E793C65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D964400E-8BCC-4FE6-8AEC-79C61E793C65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D964400E-8BCC-4FE6-8AEC-79C61E793C65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D964400E-8BCC-4FE6-8AEC-79C61E793C65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
