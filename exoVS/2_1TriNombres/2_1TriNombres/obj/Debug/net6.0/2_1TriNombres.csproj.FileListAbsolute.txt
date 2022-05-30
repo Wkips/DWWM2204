@@ -1,0 +1,15 @@
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\2_1TriNombres\2_1TriNombres\bin\Debug\net6.0\2_1TriNombres.exe
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\2_1TriNombres\2_1TriNombres\bin\Debug\net6.0\2_1TriNombres.deps.json
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\2_1TriNombres\2_1TriNombres\bin\Debug\net6.0\2_1TriNombres.runtimeconfig.json
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\2_1TriNombres\2_1TriNombres\bin\Debug\net6.0\2_1TriNombres.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\2_1TriNombres\2_1TriNombres\bin\Debug\net6.0\2_1TriNombres.pdb
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\2_1TriNombres\2_1TriNombres\obj\Debug\net6.0\2_1TriNombres.csproj.AssemblyReference.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\2_1TriNombres\2_1TriNombres\obj\Debug\net6.0\2_1TriNombres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\2_1TriNombres\2_1TriNombres\obj\Debug\net6.0\2_1TriNombres.AssemblyInfoInputs.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\2_1TriNombres\2_1TriNombres\obj\Debug\net6.0\2_1TriNombres.AssemblyInfo.cs
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\2_1TriNombres\2_1TriNombres\obj\Debug\net6.0\2_1TriNombres.csproj.CoreCompileInputs.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\2_1TriNombres\2_1TriNombres\obj\Debug\net6.0\2_1TriNombres.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\2_1TriNombres\2_1TriNombres\obj\Debug\net6.0\refint\2_1TriNombres.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\2_1TriNombres\2_1TriNombres\obj\Debug\net6.0\2_1TriNombres.pdb
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\2_1TriNombres\2_1TriNombres\obj\Debug\net6.0\2_1TriNombres.genruntimeconfig.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\2_1TriNombres\2_1TriNombres\obj\Debug\net6.0\ref\2_1TriNombres.dll

@@ -1,6 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 double rayonr;
-double airea;
 double volumev;
 double aire;
 
