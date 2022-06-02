@@ -1,0 +1,15 @@
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.5Bicyclette_Bovary\obj\Debug\net6.0\2.5Bicyclette_Bovary.csproj.AssemblyReference.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.5Bicyclette_Bovary\obj\Debug\net6.0\2.5Bicyclette_Bovary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.5Bicyclette_Bovary\obj\Debug\net6.0\2.5Bicyclette_Bovary.AssemblyInfoInputs.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.5Bicyclette_Bovary\obj\Debug\net6.0\2.5Bicyclette_Bovary.AssemblyInfo.cs
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.5Bicyclette_Bovary\obj\Debug\net6.0\2.5Bicyclette_Bovary.csproj.CoreCompileInputs.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.5Bicyclette_Bovary\bin\Debug\net6.0\2.5Bicyclette_Bovary.exe
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.5Bicyclette_Bovary\bin\Debug\net6.0\2.5Bicyclette_Bovary.deps.json
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.5Bicyclette_Bovary\bin\Debug\net6.0\2.5Bicyclette_Bovary.runtimeconfig.json
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.5Bicyclette_Bovary\bin\Debug\net6.0\2.5Bicyclette_Bovary.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.5Bicyclette_Bovary\bin\Debug\net6.0\2.5Bicyclette_Bovary.pdb
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.5Bicyclette_Bovary\obj\Debug\net6.0\2.5Bicyclette_Bovary.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.5Bicyclette_Bovary\obj\Debug\net6.0\refint\2.5Bicyclette_Bovary.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.5Bicyclette_Bovary\obj\Debug\net6.0\2.5Bicyclette_Bovary.pdb
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.5Bicyclette_Bovary\obj\Debug\net6.0\2.5Bicyclette_Bovary.genruntimeconfig.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\2.5Bicyclette_Bovary\obj\Debug\net6.0\ref\2.5Bicyclette_Bovary.dll

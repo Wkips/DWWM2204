@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "2.4Tri_des_Nombres/1.0.0": {
+      "2.5Bicyclette_Bovary/1.0.0": {
         "runtime": {
-          "2.4Tri_des_Nombres.dll": {}
+          "2.5Bicyclette_Bovary.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "2.4Tri_des_Nombres/1.0.0": {
+    "2.5Bicyclette_Bovary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
