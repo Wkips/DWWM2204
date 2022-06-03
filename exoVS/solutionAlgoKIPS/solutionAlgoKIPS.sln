@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.4Tri_des_Nombres", "2.4Tr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.5Bicyclette_Bovary", "2.5Bicyclette_Bovary\2.5Bicyclette_Bovary.csproj", "{A416B061-A71E-4850-A88C-D3B48E016CFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.1CtrlSaisie", "3.1CtrlSaisie\3.1CtrlSaisie.csproj", "{7CF9B8E5-7FC5-410A-A76A-9EDB8AF426FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.1CtrlSaisie", "3.1CtrlSaisie\3.1CtrlSaisie.csproj", "{7CF9B8E5-7FC5-410A-A76A-9EDB8AF426FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2Motdepasse", "3.2Motdepasse\3.2Motdepasse.csproj", "{477EE6F5-1457-4C19-A3D4-2B720CA7FDDD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{7CF9B8E5-7FC5-410A-A76A-9EDB8AF426FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CF9B8E5-7FC5-410A-A76A-9EDB8AF426FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CF9B8E5-7FC5-410A-A76A-9EDB8AF426FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{477EE6F5-1457-4C19-A3D4-2B720CA7FDDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{477EE6F5-1457-4C19-A3D4-2B720CA7FDDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{477EE6F5-1457-4C19-A3D4-2B720CA7FDDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{477EE6F5-1457-4C19-A3D4-2B720CA7FDDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

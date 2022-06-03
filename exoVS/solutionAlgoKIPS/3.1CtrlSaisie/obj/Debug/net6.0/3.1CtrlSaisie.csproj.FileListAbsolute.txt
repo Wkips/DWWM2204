@@ -1,0 +1,15 @@
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.1CtrlSaisie\obj\Debug\net6.0\3.1CtrlSaisie.csproj.AssemblyReference.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.1CtrlSaisie\obj\Debug\net6.0\3.1CtrlSaisie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.1CtrlSaisie\obj\Debug\net6.0\3.1CtrlSaisie.AssemblyInfoInputs.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.1CtrlSaisie\obj\Debug\net6.0\3.1CtrlSaisie.AssemblyInfo.cs
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.1CtrlSaisie\obj\Debug\net6.0\3.1CtrlSaisie.csproj.CoreCompileInputs.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.1CtrlSaisie\bin\Debug\net6.0\3.1CtrlSaisie.exe
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.1CtrlSaisie\bin\Debug\net6.0\3.1CtrlSaisie.deps.json
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.1CtrlSaisie\bin\Debug\net6.0\3.1CtrlSaisie.runtimeconfig.json
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.1CtrlSaisie\bin\Debug\net6.0\3.1CtrlSaisie.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.1CtrlSaisie\bin\Debug\net6.0\3.1CtrlSaisie.pdb
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.1CtrlSaisie\obj\Debug\net6.0\3.1CtrlSaisie.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.1CtrlSaisie\obj\Debug\net6.0\refint\3.1CtrlSaisie.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.1CtrlSaisie\obj\Debug\net6.0\3.1CtrlSaisie.pdb
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.1CtrlSaisie\obj\Debug\net6.0\3.1CtrlSaisie.genruntimeconfig.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.1CtrlSaisie\obj\Debug\net6.0\ref\3.1CtrlSaisie.dll
