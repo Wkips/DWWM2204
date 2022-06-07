@@ -14,7 +14,8 @@ Au 3ème échec, le programme affiche “Votre compte est bloqué” et se termi
 Note : Le bon mot de passe est formation */
 
 string pswd;
-int nombreTentativeLouppee;
+int nombreTentativeLouppee=0;
+bool connecte= false;
 
 
 do
@@ -26,14 +27,14 @@ do
 
     {
         Console.WriteLine("vous etes connecte");
+        connecte = true;
     }
     else
     {
         nombreTentativeLouppee++;
     }
 }
-while (nombreTentativeLouppee > 3); 
+while (nombreTentativeLouppee < 3 && connecte==false); 
 
-{ 
+ if (nombreTentativeLouppee >=3)
     Console.WriteLine("Compte bloque"); 
-}
