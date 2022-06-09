@@ -25,7 +25,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.5Bicyclette_Bovary", "2.5
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.1CtrlSaisie", "3.1CtrlSaisie\3.1CtrlSaisie.csproj", "{7CF9B8E5-7FC5-410A-A76A-9EDB8AF426FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2Motdepasse", "3.2Motdepasse\3.2Motdepasse.csproj", "{477EE6F5-1457-4C19-A3D4-2B720CA7FDDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.2Motdepasse", "3.2Motdepasse\3.2Motdepasse.csproj", "{477EE6F5-1457-4C19-A3D4-2B720CA7FDDD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.3Intervalle2Nombres", "3.3Intervalle2Nombres\3.3Intervalle2Nombres.csproj", "{77F553EE-B10A-41CF-A4CB-E6FBDF24F90D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.4Diviseur", "3.4Diviseur\3.4Diviseur.csproj", "{5838C324-F49D-4F82-9BCB-27784B2A47D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{477EE6F5-1457-4C19-A3D4-2B720CA7FDDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{477EE6F5-1457-4C19-A3D4-2B720CA7FDDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{477EE6F5-1457-4C19-A3D4-2B720CA7FDDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77F553EE-B10A-41CF-A4CB-E6FBDF24F90D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F553EE-B10A-41CF-A4CB-E6FBDF24F90D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F553EE-B10A-41CF-A4CB-E6FBDF24F90D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F553EE-B10A-41CF-A4CB-E6FBDF24F90D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5838C324-F49D-4F82-9BCB-27784B2A47D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5838C324-F49D-4F82-9BCB-27784B2A47D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5838C324-F49D-4F82-9BCB-27784B2A47D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5838C324-F49D-4F82-9BCB-27784B2A47D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
