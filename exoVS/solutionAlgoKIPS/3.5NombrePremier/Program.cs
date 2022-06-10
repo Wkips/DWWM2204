@@ -9,7 +9,7 @@ for (int i = 2; i < nombre1; i++)
 
     if (nombre1 % i == 0)
     {
-       resultat= nombre1+ " ce n est pas un nombre premoier";
+       resultat= nombre1+ " ce n est pas un nombre premier";
     }
 
 
