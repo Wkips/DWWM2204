@@ -1,14 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
-//Lire un nombre entier et afficher tous ses diviseurs autres que 1 et lui-même. 
-int a;
+﻿//diviseur 3.4 
+
+int nombre1;
 int i;
 
-Console.WriteLine("saisir a ");
-a= int.Parse(Console.ReadLine());
-for (i = 1;i< a; i++)
+Console.WriteLine("veuillez saisir le nombre 1");
+nombre1 = int.Parse(Console.ReadLine());
+for (i = 1; i < nombre1; i++)
 {
-    if (a%i == 0)
-    {
-        Console.WriteLine(i);
-    }
+
+	if (nombre1 % i == 0)
+	{
+		Console.WriteLine(i);
+	}
 }
