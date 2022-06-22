@@ -12,4 +12,19 @@
 //    La lettre n’est pas présente
 //    La lettre est présente une ou plusieurs fois
 
-String("hello World .");
+String phrase;
+char lettre;
+char[] tableau_phraase;
+Console.WriteLine("saisir une phrase terminée par un point");
+phrase  = Console.ReadLine();
+if(phrase.EndsWith(".") && phrase.Length<=1 )
+{
+    Console.WriteLine("la phrase est vide");
+}
+else
+{
+    tableau_phraase = phrase.ToCharArray();
+    Console.WriteLine("veuillez saisir un caractere");
+    lettre = char.Parse(Console.ReadLine());
+}
+
