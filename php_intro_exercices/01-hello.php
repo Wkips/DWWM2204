@@ -4,8 +4,19 @@
 */
 function helloWorld() : void
 {
-echo "Hello World !";
+    echo "hello world" .PHP_EOL;
 }
+
+
+
+
+function hello (string $name) :string
+{
+    return "Hello $name";
+}
+
+
 //0 test de la fonction (la fonction affiche directement le résultat)
-helloWorld()
+helloWorld();
+echo hello('willy');
 ?>
