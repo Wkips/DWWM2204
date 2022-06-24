@@ -32,4 +32,25 @@ $nb5 = readline("saisir nombre 5 ");
 $nb6= readline("saisir nombre 6 ");
 
 echo 'le produit de nombre 5 : '  . $nb5.  ' et nombre 6 :'.  $nb6 . ' est de ' . getMulti($nb5, $nb6) . PHP_EOL;
-?>;
+
+//Créer une fonction getDiv() qui accepte deux arguments de type int. Elle devra retourner la division des deux valeurs.
+//Limitez le résultat à 2 décimales
+echo 'saisir nombre 7 et nombre 8 ' . PHP_EOL;
+function getDiv(float $nb7, float $nb8) : float
+{
+
+if ($nb8 == 0) 
+{
+    return 0;
+
+}
+else
+{
+    return number_format($nb7 / $nb8, 2);
+    
+}
+$nb7 = readline("saisir nombre 7 ");
+$nb8= readline("saisir nombre 8 ");
+}
+echo 'le quotient de nombre 7 : '  . $nb7.  ' et nombre 8 :'.  $nb8 . ' est de ' . getMulti($nb7, $nb8) . PHP_EOL;
+
