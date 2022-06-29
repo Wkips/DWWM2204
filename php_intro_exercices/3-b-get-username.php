@@ -1,6 +1,6 @@
 <?php
-//Créer une fonction « getUserName() » qui accepte deux arguments (prénom et nom) de type string.
-//Cette fonction doit retourner la concaténation des deux valeurs.
+//Créer une fonction « getUerName() » qui accepte deux arguments (prénom et nom) de type string.
+//Cette fonctsion doit retourner la concaténation des deux valeurs.
 //Exemple :
 //getUserName ('mickaël', 'devoldère'); // retourne « mickaëldevoldère »
 $name = readline("saisir votre nom :");
