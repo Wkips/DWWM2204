@@ -17,7 +17,7 @@
 
 
 function getMC2():string {
-    return 'einstein';
+    return 'Einstein';
 
 }
 
@@ -41,8 +41,8 @@ function getUserName(string $name, string $lastname)
 //La conversion minuscule en majuscule se fait en PHP avec la fonction strtoupper() et l’inverse avec la fonction strtolower().
 
 
-$name=readline('saisir votre nom ').PHP_EOL;
-$lastname=readline('saisir votre prenom ').PHP_EOL;
+$name=readline('saisir votre nom ');
+$lastname=readline('saisir votre prenom ');
 function getFullName(string $name  ,  string $lastname)
 {
     return $name . ' ' . $lastname;
@@ -61,9 +61,9 @@ function getFullName(string $name  ,  string $lastname)
 
 function askUser(string $name  ,  string $lastname) : string
 {
-    return 'Bonjour '.getFullName($name, $lastname) . ' connaissez vous :' . getMC2() . '?';
+    return 'Bonjour '.getFullName($name, $lastname) . ' connaissez vous ' . getMC2() . '?';
 
 }
 
-echo 'bonjour ' . askUser($name , $lastname);
+echo   askUser($name , $lastname);
 ?>
