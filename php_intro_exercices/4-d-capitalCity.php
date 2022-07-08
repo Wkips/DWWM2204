@@ -17,15 +17,15 @@ function capitalCity(string $country) : string
     switch ($country)
     {
             case  'France':
-                return 'Paris';
+                    return 'Paris';
             break;
 
             case 'Allemagne':
-                return 'Berlin';
+                    return 'Berlin';
             break;
 
             case  'italie':
-                return 'rome';
+                    return 'rome';
             break;
 
             case 'Maroc':
@@ -39,8 +39,8 @@ function capitalCity(string $country) : string
                     return 'Lisbonne';
                 break;
 
-                case 'angleterre';
-                return 'londres';
+            case 'angleterre';
+                    return 'londres';
             break;
 
            
