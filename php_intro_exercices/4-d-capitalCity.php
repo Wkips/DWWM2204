@@ -42,16 +42,10 @@ function capitalCity(string $country) : string
             case 'angleterre';
                     return 'londres';
             break;
-
            
             default ;
             return 'ce n est pas dans la liste';
-        
-
-
-                
-   
-       
+    
     
     }
 }
@@ -60,14 +54,5 @@ $country = readline('saisir le nom d un pays ');
 $result = capitalCity($country);
 
 echo $result . PHP_EOL;
-
-    
-
-
-
-
-
-
-
 
 ?>
