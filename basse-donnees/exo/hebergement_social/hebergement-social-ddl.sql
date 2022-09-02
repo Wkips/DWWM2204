@@ -4,6 +4,7 @@
 -- CREATE : créer une structure de données 
 -- ALTER : Modifier une structure de donnes
 -- DROP : Supprimer une structure de données
+
 DROP TABLE IF EXISTS people;
 DROP TABLE IF EXISTS roles;
 
@@ -19,10 +20,21 @@ CREATE TABLE people
 	person_lastname VARCHAR(255) NOT NULL,
 	person_firstname VARCHAR(50) NOT NULL,
 	person_birthdate DATE NOT NULL,
-	person_hiredate DATE NULL,
-	person_active BOOLEAN NOT NULL,
 	person_role_id INT NOT NULL,
 	PRIMARY KEY(person_id)
+	-- ,FOREIGN KEY (person_role_id) REFERENCES roles(role_id)
 );
-ALTER TABLE people
-ADD CONSTRAINT fk_primarykey ADD FOREIGN KEY (person_role_id) REFERENCES roles(role_id)
+
+--V2 VOIR AVEC MIKA
+CREATE TABLE residents
+(person_id INT,
+ date_arrival timestamp,
+ date_leave TIMESTAMP,
+ person_id_docteur_id INT)
+ ;
+
+-- ALTER TABLE people 
+--	ADD FOREIGN KEY (person_role_id) REFERENCES roles(role_id);
+	
+ALTER TABLE people 
+	ADD CONSTRAINT fk_people_role_id FOREIGN KEY (person_role_id) REFERENCES roles(role_id);

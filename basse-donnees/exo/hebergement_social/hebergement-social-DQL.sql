@@ -4,23 +4,23 @@ SELECT * FROM roles;
 SELECT * FROM people;
 
 SELECT 
-person_id, person_lastname, person_firstname, person_birthdate, person_hiredate, person_active, person_role_id 
+person_id, person_lastname, person_firstname, person_birthdate, person_hiredate, person_active, role_id 
 FROM people;
 
 -- Sélectionner, l'identifiant de la personne, l'identifiant du role, le nom et prénom de la personne
 -- à partir de la table "people" où le role_id est égal à 5
 SELECT 
-person_id, person_role_id, person_firstname, person_lastname
+person_id, role_id, person_firstname, person_lastname
 FROM people
-WHERE person_role_id = 5
+WHERE role_id = 5
 ;
 
 -- Sélectionner, l'identifiant de la personne, l'identifiant du role, le nom et prénom de la personne
 -- à partir de la table "people" où le role_id est différent de 1
 SELECT 
-person_id, person_role_id, person_firstname, person_lastname
+person_id, role_id, person_firstname, person_lastname
 FROM people
-WHERE person_role_id <> 1
+WHERE role_id <> 1
 ;
 
 
@@ -48,25 +48,26 @@ SELECT role_name FROM roles WHERE role_id = 1;
  -- requête imbriquée (à éviter tant que possible)
 SELECT 
 person_id,
-person_role_id,
+role_id,
 person_firstname,
 person_lastname
 FROM people
-WHERE person_role_id <> (SELECT role_id FROM roles WHERE role_id = 1)
+WHERE role_id <> (SELECT role_id FROM roles WHERE role_id = 1)
 ;
 
 
 
 SELECT 
-person_id, person_lastname, person_firstname, person_birthdate, person_hiredate, person_active, person_role_id
+person_id, person_lastname, person_firstname, person_birthdate, person_hiredate, person_active, role_id
 FROM people
 WHERE TRUE 
-ORDER BY person_role_id ASC, person_birthdate ASC 
+ORDER BY role_id ASC, person_birthdate ASC 
 ;
+--Sélectionner tous les rôles avec le nombre de personnes associées à chaque rôle.
+SELECT
+role_id, 
+role_name,
+(SELECT COUNT(*) FROM people WHERE person_role_id=role_id) as nombre
+FROM
+roles;
 
-SELECT 
-person_id, person_lastname, person_firstname, person_birthdate, person_hiredate, person_active, person_role_id
-FROM people
-WHERE TRUE 
-ORDER BY person_role_id ASC, person_lastname ASC 
-;
