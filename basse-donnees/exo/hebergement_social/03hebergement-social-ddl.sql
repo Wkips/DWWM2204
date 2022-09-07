@@ -1,29 +1,5 @@
 
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@Wkips
-ARFP /
-DWWM_2204
-Public
 
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-
-    Insights
-
-DWWM_2204/04-bases-de-donnees/02-herbergement-social/03-Hebergement-social-DDL.sql
-Mickaël 1eres requetes
-Latest commit 863b7a6 21 hours ago
-History
-0 contributors
-50 lines (40 sloc) 1.32 KB
 -- DDL : Data Definition Language (Langage de définition des données)
 -- Permet de manipuler : TABLE, VIEW, TRIGGER, PROCEDURE
 
@@ -74,20 +50,3 @@ ALTER TABLE residents
 	ADD CONSTRAINT fk_residents_doctor_id FOREIGN KEY (resident_doctor_id) REFERENCES people(person_id);
 	
 	
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-You have unread notifications
