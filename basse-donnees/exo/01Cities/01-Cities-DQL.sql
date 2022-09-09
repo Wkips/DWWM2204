@@ -20,3 +20,8 @@ COUNT(cities.*)
 FROM countries, cities 
 WHERE countries.country_code = cities.country_code 
 GROUP BY countries.country_code, country_name;
+
+-- 5 Créer la requête SELECT correspondant au résultat suivant :
+
+SELECT city_id, city_name, country_code ,
+country_name, COUNT (cities.*) AS number_of_cities 

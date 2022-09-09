@@ -1,0 +1,1 @@
+SELECT emp_firstname,emp_lastname,emp_salary FROM employees ORDER BY emp_hiredate ASC;
