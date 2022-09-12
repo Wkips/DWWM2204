@@ -19,3 +19,7 @@ VALUES
 (16,8,'Dimario','Jordan',32500,'2019-06-30'),
 (17,9,'Macdowel','Cindy',32500,'2019-11-04')
 ;
+
+
+UPDATE employees
+SET emp_manager_id = E1.emp_manager_id
