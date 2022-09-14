@@ -1,3 +1,7 @@
+TRUNCATE TABLE brands RESTART IDENTITY CASCADE;
+TRUNCATE TABLE owners RESTART IDENTITY CASCADE;
+TRUNCATE TABLE cars RESTART IDENTITY CASCADE;
+TRUNCATE TABLE cars_owners RESTART IDENTITY CASCADE;
 
 INSERT INTO 
 brands (brand_name)
@@ -8,9 +12,7 @@ VALUES
 ('Peugeot'),
 ('Toyota');
  
-
-
-
+SELECT * FROM brands;
 
 INSERT INTO
 owners (owner_id,owner_lastname,owner_firstname)
@@ -23,16 +25,29 @@ VALUES
 
 
 INSERT INTO
-cars (car_id,car_registration,car_name,brand_id,owner_id)
+cars (car_id,car_name,brand_id)
 VALUES
-(12,'AA-123-AA','Chevelle Concours',3,1),
-(16,'BB-274-BB','A6 Break',1,5),
---DECALAGE 
-(21,'CA-546','Monte Carlo',3,4),
-(19,'CC-546-FV','504',4,4),
-(27,'CG-274-ZG','Q8',1,3),
-(30,'FV-313-FT',),
-(28),
-(23),
-(26);
+(12,'Chevelle Concours',3),
+(16,'A6 Break',1),
+(21,'Corolla',5),
+(19,'Monte Carlo',3),
+(27,'504',4),
+(30,'Q8',1),
+(28,'100 LS',1),
+(23,'Hornet',2),
+(26,'3008',4)
 ;
+
+INSERT INTO 
+cars_owners(car_id,car_registration,car_owner_id)
+VALUES
+
+(12,'AA-123-AA',1),
+(16,'BB-274-BB',5),
+(21,'CA-789-BA',2),
+(19,'CC-546-FV',4),
+(27,'CG-274-ZG',4),
+(30,'ER-355-GX',3),
+(28,'FV-313-FT',5),
+(23,'DE-228-KS',5),
+(26,'CF-614-PM',5)
