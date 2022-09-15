@@ -1,7 +1,19 @@
-TRUNCATE TABLE brands RESTART IDENTITY CASCADE;
 TRUNCATE TABLE owners RESTART IDENTITY CASCADE;
+TRUNCATE TABLE brands RESTART IDENTITY CASCADE;
 TRUNCATE TABLE cars RESTART IDENTITY CASCADE;
 TRUNCATE TABLE cars_owners RESTART IDENTITY CASCADE;
+
+
+
+INSERT INTO
+owners (owner_id,owner_lastname,owner_firstname)
+VALUES
+(1,'Petit','Annie'),
+(2,'Marsfall','Bénédicte'),
+(3,'Doe','John'),
+(4,'Bouchra','Amine'),
+(5,'Jones','Steeven');
+
 
 INSERT INTO 
 brands (brand_name)
@@ -14,14 +26,6 @@ VALUES
  
 SELECT * FROM brands;
 
-INSERT INTO
-owners (owner_id,owner_lastname,owner_firstname)
-VALUES
-(1,'Petit','Annie'),
-(2,'Marsfall','Bénédicte'),
-(3,'Doe','John'),
-(4,'Bouchra','Amine'),
-(5,'Jones','Steeven');
 
 
 INSERT INTO
