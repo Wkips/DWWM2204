@@ -33,3 +33,4 @@ CREATE TABLE cars_owners(
    FOREIGN KEY(car_id) REFERENCES cars(car_id),
    FOREIGN KEY(car_owner_id) REFERENCES owners(owner_id)
 );
+
