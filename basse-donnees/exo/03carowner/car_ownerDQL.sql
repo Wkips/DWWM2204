@@ -25,4 +25,29 @@ NATURAL JOIN cars
 GROUP BY brand_name
  
  
---4 
+--4 Sélectionner le nom de toutes les marques incluant le nombre de propriétaires de chaque marque
+
+SELECT brand_name,
+COUNT (car_owner_id)FROM brands
+NATURAL JOIN cars
+NATURAL JOIN cars_owners
+GROUP BY brand_name
+
+
+-- 5
+-- Sélectionner les prénoms des propriétaires dont le prénom commence par la lettre A
+
+SELECT owner_firstname
+FROM owners
+WHERE owner_firstname LIKE 'A%';
+
+--6Sélectionner le noms et prénom des propriétaires dont le prénom contient plus de 5 lettre
+SELECT owner_firstname,owner_lastname 
+FROM owners
+GROUP BY owner_id
+HAVING LENGTH(owner_firstname) >5
+
+--LENGTH (owner_firstname) AS longueur
+
+--WHERE LENGTH (owner) >5 (avant  GROUP BY)
+--HAVING (apres GROUP  BY)
