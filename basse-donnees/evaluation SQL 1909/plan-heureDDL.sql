@@ -100,3 +100,5 @@ ALTER TABLE people
 ALTER TABLE residents 
 	ADD CONSTRAINT fk_residents_people_id FOREIGN KEY (person_id) REFERENCES people(person_id),
 	ADD CONSTRAINT fk_residents_doctor_id FOREIGN KEY (resident_doctor_id) REFERENCES people(person_id);
+	
+

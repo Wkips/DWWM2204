@@ -1,5 +1,3 @@
-/* VERSION 1 */ 
-
 -- Sélectionner tous les éducateurs. (role educateur = 5)
 SELECT person_lastname, person_firstname FROM people WHERE person_role_id = 5;
 
@@ -74,5 +72,3 @@ NATURAL JOIN events_registration
 GROUP BY activity_id, event_id
 HAVING (event_cap_max - COUNT(events_registration.*)) < (event_cap_max / 4)
 
-
--- 8 Sélectionner les activités futures avec le nombre d’inscrits par activité.
