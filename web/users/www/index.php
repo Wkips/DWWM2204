@@ -6,5 +6,8 @@
 *DB name = nom db
 * charset = jeux de charactere
 */
-$dsn = 'host=localhost;port=3306;dbname=users2204;charset=utf8mb4';
-$connexion = new PDO('$dsn','users2204','azer');
+$dsn = 'mysql:host=localhost;port=3306;dbname=users2204;charset=utf8mb4';
+$connexion = new PDO($dsn,'users2204','azer');
+
+echo '  OK !!!!!!!!!!!!!!!!!!!! ';
+
