@@ -1,0 +1,14 @@
+{
+    "name": "wkips/users",
+    "description": "Ma super application de gestion d'utilisateurs",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wkips",
+            "email": "wikips@arfp.asso.fr"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

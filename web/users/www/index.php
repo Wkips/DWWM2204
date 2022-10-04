@@ -1,13 +1,32 @@
-<?php
-/** 
-* DATA Source Name ( connetion string)
-* @ DB Serv
-*port si ce n estg pas le port par defaut
-*DB name = nom db
-* charset = jeux de charactere
+<?php 
+// page : définir la page à afficher.
+
+/*
+$_GET[] = valeurs transmises par l'url
 */
-$dsn = 'mysql:host=localhost;port=3306;dbname=users2204;charset=utf8mb4';
-$connexion = new PDO($dsn,'users2204','azer');
+echo '<pre>'.var_export($_GET, true). '</pre>';
 
-echo '  OK !!!!!!!!!!!!!!!!!!!! ';
+// si le parametre 'page' dans l'url n'est pas vide
+//$page = !empty($_GET['page']) ? $_GET['page'] : 'home';
+$page = $_GET['page'] ?? 'home';
 
+
+switch($page)
+{
+    case 'home':
+        // charger ici le fichier home.php
+        require '../View/home.php';
+    break;
+    case 'profile':
+        // charger ici le fichier profile.php
+        require '../View/profile.php';
+    break;
+    case 'groups':
+        require '../Controllrt/GroupController.php';
+        $controller = new GroupController();
+        $controller->index(); 
+        break;
+    default:
+        echo 'Erreur 404';
+    break;
+}
