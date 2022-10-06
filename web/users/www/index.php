@@ -15,18 +15,25 @@ switch($page)
 {
     case 'home':
         // charger ici le fichier home.php
-        require '../View/home.php';
+        require '../Controller/HomeController.php';
+        $controller = new \Users\Controller\HomeController();
+        $controller->index();
     break;
+
     case 'profile':
         // charger ici le fichier profile.php
-        require '../View/profile.php';
+        require '../Controller/ProfileController.php';
+        $controller = new \Users\Controller\ProfileController();
+        $controller->index();
     break;
+
     case 'groups':
-        require '../Controllrt/GroupController.php';
-        $controller = new GroupController();
+        require '../Controller/GroupController.php';
+        $controller = new \Users\Controller\GroupController();
         $controller->index(); 
         break;
     default:
         echo 'Erreur 404';
     break;
+
 }

@@ -1,13 +1,11 @@
 <?php
-
 namespace Users\Controller;
-
-class GroupController
+class HomeController
 
 {
 
         public function index()
         {
-            require '../View/groups.php';
+            require '../View/home.php';
         }
 }
