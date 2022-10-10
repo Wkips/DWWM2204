@@ -1,0 +1,35 @@
+
+html {font-size: 62.5%;}
+
+body {font-size: 1.6em;
+    color:rgb(133, 133, 139);
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+header {background-color : rgb(238, 180, 180);
+        height:10em ;
+        width: 100%;}
+
+        main,aside {
+            width:70%;
+            min-height: 20em;
+        }
+
+main {background-color: rgb(134, 191, 241);
+    min-height : 20em;
+    width: 80%;
+    }
+    aside { background-color: antiquewhite;
+        height: 10em;
+        width: 20%;
+    }
+
+footer {background-color:#b4acac;
+        height: 10em;
+    width: 100%;}
+
+    h1 {background-color: rgb(221, 209, 231);
+    margin:0;
+    }

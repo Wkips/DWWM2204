@@ -1,0 +1,21 @@
+body
+{
+    background-color: lightblue;
+    text-align: justify;
+    
+}
+
+
+
+h1:after {
+    content:' ';
+    display:block;
+    border:2px solid black;
+}
+h2 { font-style: Arial ;
+     ;}
+
+     img2 {
+
+
+     }
