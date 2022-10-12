@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(235, 240, 240);
+}
+header { 
+    background-color:rgb(230, 75, 60);
+    text-align: center;
+    color:white ;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+}
+.conteneur {    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+}
+
+.chats {
+    width: 20em;
+    height:30em ;
+
+
+}
+
+.chats img {
+    width: 100%;
+
+}
+
+
+#chat1 {
+    background-color: blue;
+    ;
+    
+}
+#chat2 {
+    background-color: red;
+}
+#chat2 img {
+    height: 35%
+}
+
+#chat3 {
+    background-color: green;
+}
