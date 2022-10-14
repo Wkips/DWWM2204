@@ -1,0 +1,30 @@
+table {
+
+    border-style: solid;
+    border-width: 1PX;
+    border-color: pink;
+    color: green;
+    border-collapse: collapse;
+}
+
+
+body {
+    background-color: #111111;
+    color: #fff;
+}
+
+td { border-style: solid;
+    border-color: whitesmoke;
+    border-width: 1px;}
+
+
+    th { border-style: solid;
+        border-color: red;
+        border-width: 1px;}
+
+
+        th , td { padding: 0;
+        padding-top: 2px;
+        padding-right: 1px;
+    padding-bottom: 4px;
+    padding-left: 5px;}
