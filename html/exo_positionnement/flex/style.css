@@ -6,11 +6,16 @@ main {
 }
 
 #asideLeft {
-    display: flex;
-    flex-direction: column;
+
     justify-content: flex-start;
     background-color: #FFDDCC;
     width: 25%;
+}
+
+#asideLeft ul {
+    list-style: none;
+
+    padding: 1px;
 }
 
 #asideRight {
@@ -55,3 +60,8 @@ article {
 footer {
     text-align: center;
 }
+a { 
+    border: 1px;
+    border-style: solid;
+    margin:10px;
+gap: 1rem;}
