@@ -1,22 +1,85 @@
+
+
+body {
+margin:0px;
+padding:0px;    
+font-size: 62.5%;
+
+}
+html{
+
+    font-size: 1.6em;
+
+}
+header {
+    background-color: #CCDDFF;
+    text-align: center;
+    padding: 0%;
+    margin: 0%;
+
+}
+h1{
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+nav{
+    padding: 10px;
+    width: 75%;
+    
+}
+
+nav ul li 
+{
+width: 80%;
+margin: 20px 0px 20px 0px; 
+border: 1px solid rgb(85, 65, 65);
+padding: 20px;
+background-color: white;
+
+} 
+
+
 main {
     display: flex;
     flex-wrap:nowrap;
     justify-content: space-between;
-    
+    height: 44em;
+   
 }
 
+
+
+
+
+
+a { 
+   
+   
+    gap: 2rem;
+
+   
+
+}
 #asideLeft {
 
     justify-content: flex-start;
     background-color: #FFDDCC;
-    width: 25%;
+        width: 30%;
+
+       
+    
+
 }
 
 #asideLeft ul {
     list-style: none;
-
+    margin: 1px;
     padding: 1px;
 }
+
 
 #asideRight {
     display: flex;
@@ -40,6 +103,8 @@ article {
    width: 31%; 
    border: 1px;
    border-style: solid;
+   background-color: white;
+height: 2.5em;
     
 
 }
@@ -50,7 +115,10 @@ article {
     justify-content: space-between;
     flex-wrap: wrap;
     gap: 1rem;
+    padding-bottom: 25em;
+    
 }
+h2 {padding-bottom: 2em;}
 
 
 
@@ -59,9 +127,9 @@ article {
 
 footer {
     text-align: center;
+    background-color: #CCDDFF;
+
+    padding:100px;
 }
-a { 
-    border: 1px;
-    border-style: solid;
-    margin:10px;
-gap: 1rem;}
+
+
