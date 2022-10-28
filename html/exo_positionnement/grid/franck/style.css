@@ -1,0 +1,25 @@
+html{
+
+    font-size: 1.6em;
+    font-size: 62.5%;
+
+}
+
+body
+{margin : 0px;
+ padding: 0px;
+    display: grid;
+ grid-template-columns: repeat(6,1fr) ;
+ grid-template-rows: repeat(4,1fr);
+ grid-gap: 20px;
+}
+
+
+.box
+{
+ background: #333;
+ color: #fff;
+ padding: 20px;
+}
+
+

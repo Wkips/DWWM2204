@@ -2,7 +2,8 @@ body{
 
     font-size: 62.5%;
 
-
+display: grid;
+grid-template:100px / 100px;
 }
 
 
@@ -12,3 +13,9 @@ html{
     font-size: 1.6em;
 
 }
+section{display: grid;
+
+     border: 1px;
+        border-style: solid;
+    border-color: black;
+    background-color: aqua;}
