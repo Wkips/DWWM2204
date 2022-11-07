@@ -12,6 +12,8 @@ body
  grid-template-columns: repeat(6,1fr) ;
  grid-template-rows: repeat(4,1fr);
  grid-gap: 20px;
+
+
 }
 
 
@@ -22,4 +24,14 @@ body
  padding: 20px;
 }
 
+.menubox {
+    grid-column: span 5;
+    background: #333;
+    color: #fff;
+    padding: 20px;
+}
 
+.filbox {grid-column:  span 6;
+    background: #333;
+    color: #fff;
+    padding: 20px;}
