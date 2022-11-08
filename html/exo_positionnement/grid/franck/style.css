@@ -24,14 +24,28 @@ body
  padding: 20px;
 }
 
-.menubox {
-    grid-column: span 5;
-    background: #333;
-    color: #fff;
-    padding: 20px;
+.menu {
+    grid-column: 2/7;
+   
+}
+.logo {
+    grid-column:1/2;
 }
 
-.filbox {grid-column:  span 6;
-    background: #333;
-    color: #fff;
-    padding: 20px;}
+.fil {
+    grid-column: 1/7;
+    grid-row : 2/3;
+  }
+
+.main {
+    grid-column:1/5;
+    grid-row:3/5;
+    display: grid ;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(2,1fr);
+    grid-gap: 20px;
+}  
+ .sidebar {grid-column: 5/7;
+            grid-row: 3/5;}
+
+.footer {grid-column: 1/7;}
