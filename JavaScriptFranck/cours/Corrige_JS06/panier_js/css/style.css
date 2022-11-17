@@ -1,0 +1,25 @@
+* {
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  #panier {
+    background-color: #ccc;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 1.2em;
+    width: 70%;
+    margin-top: 50px;
+    padding: 15px;
+    border-radius: 20px;
+  }
+
+  legend {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-style: italic;
+    font-size: 1.2em;
+  }
+
+  body {
+    background-color: #ADD6D6
+  }

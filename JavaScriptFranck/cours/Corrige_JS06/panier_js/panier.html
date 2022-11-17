@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+<head>
+    <meta charset="UTF-8">
+   
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestion du panier</title>
+    <link type="text/css" href="css/style.css" media="screen" rel="stylesheet" /> 
+    <script src="js/monscript.js" async></script>
+</head>
+<body>
+    <fieldset id="panier">
+
+        <legend>Gestion panier</legend>
+    <table>
+        <tr>
+          <td><label for="qt1">qté :</label></td>
+          <td><input type="text" id="qt1" name="qt1" value="1"  /></td>
+          <td>prix unitaire :</td>
+          <td><input type="text" id="pu1" name="pu1" placeholder="0" /></td>
+          <td>Chiffre affaire art. 1:</td>
+          <td><input type="text" id="ca1" name="ca1" value="" onfocus="" readonly="readonly" /></td>
+        </tr>
+  
+        <tr>
+          <td>qté :</td>
+          <td><input type="text" id="qt2" name="qt2" value="1" onblur="" /></td>
+          <td>prix unitaire :</td>
+          <td><input type="text" id="pu2" name="pu2" placeholder="0" onblur="" /> </td>
+          <td>Chiffre affaire art. 2:</td>
+          <td><input type="text" id="ca2" name="ca2" value="" onfocus="" readonly="readonly" /></td>
+        </tr>
+  
+        <tr>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>______________</td>
+        </tr>
+  
+        <tr>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>prix total ttc (€)</td>
+          <td><input type="text" id="total" name="total" onfocus="" readonly="readonly" /></td>
+        </tr>
+      </table>
+    </fieldset>
+  
+    
+</body>
+</html>
