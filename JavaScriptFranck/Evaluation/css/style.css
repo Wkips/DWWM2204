@@ -15,3 +15,19 @@ html{
  
 
 }
+
+label{ 
+    display: inline-block;
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+#UserLastName { margin-top: 10px;
+}
+fieldset { background-color: #eee;
+border-radius: 12px;
+width: 30%;
+margin-left: auto;
+margin-right: auto;}
+
+h1 { text-align: center;}

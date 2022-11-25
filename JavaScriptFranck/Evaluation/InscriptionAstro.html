@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <title>Inscription Astro</title>
     <link rel="stylesheet" href="css\style.css">
-
+    <script src="js/script.js" defer></script>
 </head>
 
 <body>
@@ -13,25 +13,28 @@
  
 
     <main><!-- Contenu principal de la page  -->
-        <form>
+        <form action="Accueil.html" method="POST" enctype="multipart/form-data">
+
+            <fieldset><legend>Inscription Compte</legend> 
             <label for="UserLastName">Nom utilisateur :</label>    
-            <input type="text" id="UserLastName" name="UserFirstName" required>
+            <input type="text" id="UserLastName" name="UserFirstName" required><br>
 
 
             <label for="UserFirstName">Prenom utilisateur :</label>    
-            <input type="text" id="UserFirstName" name="UserFirstName" required>
+            <input type="text" id="UserFirstName" name="UserFirstName" required><br>
 
 
             <label  for="dob">Date de naissance:</label>
-            <input type="date" id="dob" name="dob" required>
-
+           <select name="jour" id="jour" ></select>
+           <select name="mois" id="mois" ></select>
+           <select name="annee" id="annee"></select>
             <label for="Pseudo">Peudo :</label>    
-            <input type="text" id="Pseudo" name="Pseudo" readonly>
+            <input type="text" id="Pseudo" name="Pseudo" readonly><br>
 
             <label for="Valider">Valider :</label>    
             <input type="button" id="Valider" name="Valider" value="valider" disabled   >
 
-
+</fieldset>
             
         </form>
 

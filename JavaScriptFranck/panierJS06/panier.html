@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gestion du panier</title>
     <link type="text/css" href="style.css" media="screen" rel="stylesheet" /> 
-    <script src="script.js" async></script>
+    <script src="script.js" defer></script>
 </head>
 <body>
     <fieldset id="panier">
@@ -15,19 +15,19 @@
             <tr>
               
                 <td><label>QTE </label></td>
-                <td> <input type="text" id="qt1" ></td>
+                <td> <input type="text" id="qt1" value="1" ></td>
                 <td><label>PRIX UNITAIRE</label:></td>
-                <td> <input type="text" id="pu1" ></td>
+                <td> <input type="text" id="pu1"  value="0"></td>
                     <td><label>PRIX</label></td>
-                    <td> <input type="text" id="prix1" ></td>
+                    <td> <input type="text" id="prix1"  readonly="true" class="forbidden" ></td>
             </tr>
             <tr>
                 <td><label>QTE </label></td>
-                <td> <input type="text" id="qt2" ></td>
+                <td> <input type="text" id="qt2" value="1"></td>
                 <td><label>PRIX UNITAIRE</label></td>
-                <td> <input type="text" id="pu2" ></td>
+                <td> <input type="text" id="pu2" value="0" ></td>
                 <td><label>PRIX</label:></td>
-                    <td> <input type="text" id="prix2" ></td>
+                    <td> <input type="text" id="prix2" readonly="true" class="forbidden"  ></td>
             </tr>
             <tr>
                 <td></td>
@@ -43,7 +43,7 @@
                 <td></td>
                 <td></td>
                 <td></td>
-                <td> <input type="text" id="stotal" ></td>
+                <td> <input type="text" id="stotal" class="forbidden"></td>
             </tr>
         </table>
      
