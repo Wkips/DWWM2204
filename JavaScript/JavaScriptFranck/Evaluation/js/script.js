@@ -57,3 +57,90 @@ for (let i = AnneeCourante-70; i < AnneeCourante-18; i++) {
 afficherAnnee();
 
 
+//EXercice 2 fonction valNum
+
+function valNum(maChaine) {
+
+    let maSomme=0;
+    maChaine=maChaine.toUpperCase();
+    for (let i = 0; i < maChaine.length; i++) {
+     let position= maChaine.charCodeAt(i)-64;
+
+        maSomme+=position;
+    }
+    return Number(maSomme);
+}
+
+
+
+document.querySelector('#UserLastName').addEventListener('blur',function(){console.log(valNum(this.value))});
+
+var tabSigne = ['Capricorne','Verseau','Poisson','Belier','Taureau','Gémaux','Cancer','Lion','Vierge','Balance','Scorpion','Sagittaire'];
+
+function calculSigne(mois){
+    return tabSigne[mois-1];
+}
+
+
+function formOK(){
+    let verif=false;
+
+    let varNom=document.getElementById("UserFirstName");
+    let varPrenom=document.getElementById("UserLastName");
+    let varmois=document.getElementById("mois");
+    let varJour=document.getElementById('jour');
+    let varAnnee=document.getElementById('annee');
+
+    if (varNom.value!="" && varPrenom.value!="" && varmois.value!="" && varJour.value!="" && varAnnee.value!="") {
+       
+verif=true;
+
+    
+    
+    }
+
+    return verif;
+}  
+
+function calculPseudo(){
+     if (formOK()==true)
+    { 
+     
+    let varNom=document.getElementById("UserFirstName");
+    let varPrenom=document.getElementById("UserLastName");
+    let varmois=document.getElementById("mois");  
+        let monPseudo = calculSigne(varmois.value)+((valNum(varNom.value)+valNum(varPrenom.value)));
+        document.getElementById("Pseudo").value=monPseudo;
+        document.getElementById("Valider").disabled=false;
+
+    }
+    else {
+        console.log("veuillez remplir tous les champs");
+    }
+
+}
+let tabtext= document.querySelectorAll("input[type=text]");
+
+tabtext.forEach( element => {element.addEventListener("blur",function(){ 
+    console.log("test");
+    calculPseudo();
+}) } )
+
+let tabSelect = document.querySelectorAll("select");
+tabSelect.forEach(item =>{item.addEventListener("change",function(){
+    console.log("test2");
+    calculPseudo();
+})  } )
+
+
+//cookie
+function setCookie(nom, valeur, expiration)
+{
+//durée vie du Cookie 1heure
+document.cookie = 'monCookie=testcookie; ';
+
+}
+
+
+
+
