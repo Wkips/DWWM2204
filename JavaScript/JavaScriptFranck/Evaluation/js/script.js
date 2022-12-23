@@ -134,13 +134,21 @@ tabSelect.forEach(item =>{item.addEventListener("change",function(){
 
 
 //cookie
-function setCookie(nom, valeur, expiration)
+function setCookie(nom, valeur)
 {
-//durée vie du Cookie 1heure
-document.cookie = 'monCookie=testcookie; ';
+//durée vie du Cookie 1heures>
+let dateJour = new Date();
+let DateExpire = new Date(dateJour.getFullYear(),dateJour.getMonth(),dateJour.getDate(),dateJour.getHours()+2);
+let expires= DateExpire.toUTCString(); 
+
+document.cookie = nom +'=' +valeur +'; expires='+expires+' ; SameSite=strict' ; 
 
 }
 
 
+document.getElementById("Valider").addEventListener('click',function(){setCookie("nomUt",document.getElementById("UserLastName").value);
+setCookie("prenomUt",document.getElementById("UserFirstName").value);
+document.forms[0].submit();
 
+})
 
